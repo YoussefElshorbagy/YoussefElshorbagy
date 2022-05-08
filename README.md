@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoussefElshorbagy
 - 👀 I’m interested in *new technologies*
 - 🌱 I’m currently learning *Media Engineering and Technology*
-- 💞️ I’m looking for *internships*
+- 💞️ I’m looking for *internships* and to *expand my GitHub Portfolio*
 - 📫 You can reach me via my email : Youssefmym2002@gmail.com
 
 <!---
