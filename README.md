@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YoussefElshorbagy
-- 👀 I’m interested in *new technologies*
-- 🌱 I’m currently studying *Media Engineering and Technology* at GUC
-- 💞️ I’m looking for *internships* and to *expand my GitHub Portfolio*
-- 📫 You can reach me via my email : Youssefmym2002@gmail.com
+- 👀 I have a keen interest in *Artificial intelligence* and *new innovations*
+- 🌱 I’m a *Computer Science and Engineering* graduate
+- 💞️ I’m looking for *Job Opportunities* to *expand my GitHub Portfolio*
+- 📫 You can reach me via my email : youssefshorbagy@gmail.com
 
 <!---
 YoussefElshorbagy/YoussefElshorbagy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
