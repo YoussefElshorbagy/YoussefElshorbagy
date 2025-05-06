@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoussefElshorbagy
-- 👀 I have a keen interest in *Artificial intelligence* and *new innovations*
+- 👀 I have a keen interest in *Artificial Intelligence* and *new innovative technology*
 - 🌱 I’m a *Computer Science and Engineering* graduate
-- 💞️ I’m looking for *Job Opportunities* to *expand my GitHub Portfolio*
+- 💞️ I’m looking for *Job Opportunities* to *expand my GitHub Portfolio* and develop my skill set
 - 📫 You can reach me via my email : youssefshorbagy@gmail.com
 
 <!---
